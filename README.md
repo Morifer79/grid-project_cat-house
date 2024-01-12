@@ -1,1 +1,1 @@
-A simple workout landing pagewith an adaptive layout created using CSS Grid technology.
+A simple workout landing page with an adaptive layout created using CSS Grid technology.
